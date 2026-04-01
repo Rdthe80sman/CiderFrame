@@ -12,7 +12,8 @@ I am not fluent in programing in C++ or Python so the only way ive made these mo
 
 
 # Credits
-DigiBrok for the original
+
+digarok Dagen Brock for the original
 
 ### bmp2dhr
 Thanks to Bill Buckels, whose seminal work in image conversion routines has long inspired me to improve my own IIgs conversion routines. 
