@@ -1,4 +1,4 @@
-# buckshot
+# CiderFrame
 An image conversion tool for Mac OSX, Windows and Linux.  Take modern image formats (PNG, JPEG, BMP, etc) and convert them for use in your Apple II programs or just for fun.
 
 ![Screenshot of starting the program](doc/web/Screenshot.png "Screenshot of starting the program")
